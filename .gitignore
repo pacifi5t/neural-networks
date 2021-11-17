@@ -5,3 +5,7 @@ __pycache__
 .venv
 .vscode
 .directory
+
+checkpoints
+
+*.png
